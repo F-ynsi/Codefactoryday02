@@ -41,7 +41,7 @@ public class Main {
 
         ///2)
         String Jj = "java is juicy";
-        System.out.println(Jj.	contains("is"));
+        System.out.println(Jj.contains("is"));
 
 
         ///3)
@@ -50,6 +50,14 @@ public class Main {
         String myCoding01 = "Coding is fnu";
         System.out.println(myCoding01.endsWith("un"));
 
+        ///Advanced (Strings)
+        ///A4
+
+        String myFullName = "Amin Hosseini";
+        System.out.print(myFullName.charAt(0));
+        System.out.println(myFullName.charAt(9));
+
+        ///Basic (Methods)
 
 
 
